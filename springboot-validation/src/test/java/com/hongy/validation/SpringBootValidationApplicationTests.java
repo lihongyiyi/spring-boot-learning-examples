@@ -1,4 +1,4 @@
-package com.hongy.springbootvalidation;
+package com.hongy.validation;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
