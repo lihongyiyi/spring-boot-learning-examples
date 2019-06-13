@@ -1,4 +1,4 @@
-package com.hongy.springboot;
+package com.hongy.elasticsearch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,8 @@ public class SpringDataElasticsearchCrudApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringDataElasticsearchCrudApplication.class, args);
+
+
     }
 
 }

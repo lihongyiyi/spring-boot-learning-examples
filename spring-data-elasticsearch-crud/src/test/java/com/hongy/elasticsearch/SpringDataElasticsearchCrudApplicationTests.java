@@ -1,4 +1,4 @@
-package com.hongy.springboot;
+package com.hongy.elasticsearch;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
